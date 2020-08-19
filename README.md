@@ -1,3 +1,3 @@
 # webScraper
  WEB SCRAPER to collect textual Data for Topic Modelling using LDA/LSA
-this allow users to save this data as csv files.
+program also allows users to save their data as a csv file

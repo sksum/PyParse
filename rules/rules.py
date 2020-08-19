@@ -12,7 +12,7 @@ def getRule(url):
     if url in specialRulesDict :
         importModule = 'import '+ specialRulesDict[url]
         exec (importModule)
-        return eval(specialRulesDict[url]).getComponent
+        return eval(specialRulesDict[url]).getComponents
     else :
         import default
-        return default.getComponent
+        return default.getComponents

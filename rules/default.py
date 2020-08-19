@@ -1,2 +1,2 @@
-def getComponent(component):
+def getComponents(component):
     return component + "0"
