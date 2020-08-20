@@ -5,6 +5,6 @@ sys.path.append('./rules')
 from nodes import nodes
 import rules
 
-node = requests.get(nodes[2]).text
+node = requests.get(nodes[4]).text
 soup = BeautifulSoup(node,"lxml")
-print(rules.getRule("stackoverflow.com")(soup))
+print(rules.getRule("digitalocean.com")(soup,"ques"))
