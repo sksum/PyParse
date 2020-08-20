@@ -1,2 +1,2 @@
-def getComponents(component):
-    return component + "0"
+def getComponents(html):
+    return html.get_text()

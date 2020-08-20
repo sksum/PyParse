@@ -7,6 +7,6 @@ def getComponents(htmlDoc):
         if i == 0 :
             components["question"] = details[i].text
         else :
-            components["answers"].append(details[i].text);
+            components["answers"].append(details[i].text)
     return components
 
