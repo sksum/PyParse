@@ -5,7 +5,6 @@ specialRulesDict = {
     "reddit.com": "reddit",
     "stackoverflow.com": "stackOverflow",
     "youtube.com": "youtube",
-    "instagram.com": "instagram"
     }
 
 def getRule(url):

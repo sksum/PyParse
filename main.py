@@ -5,6 +5,11 @@ sys.path.append('./rules')
 from nodes import nodes
 import rules
 
-node = requests.get(nodes[5]).text
-soup = BeautifulSoup(node,"lxml")
-print(rules.getRule("blogspot.com")(soup))
+rawData= [] 
+print('ok')
+for node in nodes:
+    node = requests.get(node).text
+    soup = BeautifulSoup(node,"lxml")
+    doc = rules.getRule(".com")(soup)
+    #print(doc)
+    rawData.append(doc)
