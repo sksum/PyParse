@@ -1,10 +1,42 @@
 nodes = [
+    #finance
+    "https://www.apnaplan.com/pradhan-mantri-vaya-vandana-yojana-pmvvy/",
+    "https://www.apnaplan.com/income-tax-calculator-fy-2019-20-ay-2020-21-excel-download/",
+    "https://www.apnaplan.com/how-to-save-tax-fy2019-20/",
+    "https://www.apnaplan.com/zero-income-tax-11lakh-salary/",
+    "https://www.apnaplan.com/income-tax-calculator-fy-2020-21-ay-2021-22-excel/",
+    "https://www.apnaplan.com/highest-interest-rate-on-recurring-deposits-rd/",
+    "https://www.jagoinvestor.com/",
+    "https://www.jagoinvestor.com/2020/08/senior-citizen-saving-scheme.html",
+    "https://www.jagoinvestor.com/2020/08/gold-limit.html",
+    "https://www.jagoinvestor.com/2020/07/corona-rakshak-policy-review.html",
     "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    #coding
     "https://stackoverflow.com/questions/16363877/beautifulsoup-cant-parse-youtube-pages",
     "https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color",
     "https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request",
     "https://www.digitalocean.com/community/questions/my-server-is-down-because-of-an-exces-of-trafic",
+    "https://stackoverflow.com/questions/236129/how-do-i-iterate-over-the-words-of-a-string"
+    "https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array",
+    "https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-times-in-1927-giving-a-strange-result",
+    "https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value",
+    "https://stackoverflow.com/questions/309424/how-do-i-read-convert-an-inputstream-into-a-string-in-java",
+    "https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array",
+    "https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c",
+    "https://stackoverflow.com/questions/63690175/how-to-add-adaptive-banner-ad-in-linear-layout",
+    #music
     "https://musicblocks.net/",
-    "https://en.wikipedia.org/wiki/Rova_of_Antananarivo"
-
+    "https://en.wikipedia.org/wiki/Rova_of_Antananarivo",
+    "https://www.digitalocean.com/blog/scale-your-business-not-costs-by-running-your-apps-on-digitalocean",
+    "https://www.hypebot.com/hypebot/2019/01/top-25-most-influential-music-blogs-of-2019.html",
+    "https://pitchfork.com/",
+    "https://www.hypebot.com/hypebot/2020/09/are-you-just-dying-to-go-to-a-concert.html",
+    "https://www.hypebot.com/hypebot/2020/09/amazon-music-twitch-combine-live-and-on-demand-streaming.html",
+    "https://www.hypebot.com/hypebot/2020/09/mental-physical-health-benefits-of-music.html",
+    "https://www.brooklynvegan.com/",
+    "https://www.youredm.com/2020/08/31/ray-volpe-impresses-with-new-illenium-so-much-hes-getting-the-stems/",
+    "https://www.youredm.com/2020/08/31/toniia-and-geena-fontanella-team-up-for-emotive-dance-pop-single-psychic/",
+    "https://ww.reddit.com/r/Music/",
+    "http://www.myoldkentuckyblog.com/",
+    "https://runthetrap.com/"
 ]
